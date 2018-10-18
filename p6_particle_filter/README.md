@@ -17,8 +17,6 @@
 ![alt text](https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p6_particle_filter/output/15_hand_noisy.png)
 ![alt text](https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p6_particle_filter/output/140_hand_noisy.png)
 
-![alt text](https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p6_particle_filter/output/46.png)
-
 ## Mean shift
 ### Pedestrain
 ![alt text](https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p6_particle_filter/output/28_ped.png)
