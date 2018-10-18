@@ -22,4 +22,4 @@
 ![alt text](https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p6_particle_filter/output/28_ped.png)
 ![alt text](https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p6_particle_filter/output/84_ped.png)
 
-### Romney’s right hand
+
