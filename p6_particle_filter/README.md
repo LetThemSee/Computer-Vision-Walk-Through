@@ -1,6 +1,6 @@
 # Particle Tracking / Appearance Model / Meas Shift
 ## Naive Particle filter
-### original (Track Romney’s face)
+### Original (Track Romney’s face)
 
 <img src="https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p6_particle_filter/output/28.png" width="40%">
 <img src="https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p6_particle_filter/output/144.png" width="40%">
@@ -10,10 +10,9 @@
 <img src="https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p6_particle_filter/output/46.png" width="40%">
 
 ## Appearance Model Update
-### original (Track Romney’s right hand)
+### Original (Track Romney’s right hand)
 <img src="https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p6_particle_filter/output/15_hand.png" width="40%">
 <img src="https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p6_particle_filter/output/140_hand.png" width="40%">
-
 
 ### Noisy
 <img src="https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p6_particle_filter/output/15_hand_noisy.png" width="40%">
