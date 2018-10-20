@@ -11,3 +11,7 @@
 ## Arithmetic and Geometric operations
 ### Normalize / shift / difference
 <img src="https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p0_image_basics/output/ps0-4-b-1_.png" width="20%"> <img src="https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p0_image_basics/output/ps0-4-c-1_.png" width="20%"> <img src="https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p0_image_basics/output/ps0-4-d-1_.png" width="20%">
+
+## Noise
+### Add noise to Green / Add noise to Blue
+<img src="https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p0_image_basics/output/ps0-5-a-1.png" width="20%"> <img src="https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p0_image_basics/output/ps0-5-b-1.png" width="20%">
