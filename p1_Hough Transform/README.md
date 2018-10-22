@@ -32,4 +32,4 @@ Turn up your screen brightness and FOCUS!
 # More realistic image 
 <img src="https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p1_Hough%20Transform/input/ps1-input2.png" width="45%"> 
 # Find both lines and circles
-<img src="https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p1_Hough%20Transform/output/ps1-5-b-1.png" width="45%"> 
+<img src="https://github.com/LetThemSee/Computer-Vision-Walk-Through/blob/master/p1_Hough%20Transform/output/ps1-7-a-2.png" width="45%"> 
