@@ -3,12 +3,19 @@
 I walked through some traditional computer vision algorithm in this repo.
 
 **P0:** Images basics (Done)
+
 **P1:** Hough transform (Done)
+
 **P2:** Stereo geometry (Done)
+
 **P3:** Image projection (Done)
+
 **P4:** Harris Corners, SIFT and RANSAC (Done)
+
 **P5:** Optic Flow (Coming soon)
+
 **P6:** Particle Tracking, Appearance model update, Mean-shift (Done)
+
 **P7:** Motion History Images (Coming soon)
 
 I also want to share some resources I found very helpful
