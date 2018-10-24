@@ -1,6 +1,6 @@
 # Computer-Vision-Walk-Through
 
-I walked through some traditional computer vision algorithm in this repo.
+I walked through some traditional computer vision algorithms in this repo. They give me a sense of what a piece of CV looks like and I will continue to add more!
 
 **P0:** Images basics (Done)
 
